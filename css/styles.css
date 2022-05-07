@@ -1,0 +1,132 @@
+#title{
+  background-color: #9ADCFF;
+}
+
+h1{
+font-family: 'Roboto Mono', monospace;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.navbar{
+font-family: 'Playfair Display', serif;
+padding: 1rem;
+}
+
+.body{
+padding: 3% 15% 3% 15%;
+}
+
+.nav-link{
+  font-size: 1rem;
+}
+
+.btn{
+  margin: 5% 0 5% 3%;
+}
+
+.picshur{
+  width: 65%;
+  transform: rotate(-10deg);
+  padding left: 2rem;
+  padding-top: 5rem;
+}
+
+#features{
+  padding: 5rem;
+}
+
+.fa-search-location{
+  color: #9ADCFF;
+}
+
+.fa-search-location:hover{
+  color: #FF1818;
+}
+
+.fa-heart{
+  color: #9ADCFF;
+}
+
+.fa-heart:hover{
+  color: #FF1818;
+}
+
+.fa-smile-beam{
+  color: #9ADCFF;
+}
+
+.fa-smile-beam:hover{
+  color: #FF1818;
+}
+
+#testimonials {
+text-align: center;
+background-color: #9ADCFF;
+color: white;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonial-pic{
+  width: 20%;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+#press{
+  background-color: #9ADCFF;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width:12%;
+  margin:20px 20px 50px;
+}
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column{
+padding: 3% 2%;
+}
+
+#cta{
+  background-color: #9ADCFF;
+  height: 60%;
+  text-align: center;
+  line-height: 2;
+  font-size: 3rem;
+  padding-bottom: 6%
+  font-weigth: 800;
+}
+
+.call{
+  font-size: 3.5rem;
+  padding-top: 5%;
+}
+
+#footer {
+  text-align: center;
+  font-size: 2rem;
+  padding-top: 5%
+}
+
+@media (max-width:1028px){
+  #title{
+      text-align: center;
+      height: 90%;
+
+  }
+}
+
+@media (max-width:1028px){
+  #cta{
+    text-align: center;
+  }
+}
